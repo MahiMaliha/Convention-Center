@@ -1,0 +1,84 @@
+
+/* moment section  -------------------
+ -------------------------*/
+ .moment{
+    margin-top:200px;
+}
+
+/* our packages section  -------------------
+ -------------------------*/
+ .packages{
+    margin-top:200px;
+}
+ ul li{
+    list-style-type: none;
+}
+.card-border{
+    border-radius: 30px;
+}
+.bg-card{
+    background-color: #659bd2;
+    padding-top: 20px;
+    box-shadow: 0px 20px 20px lightgray;
+}
+.special-card{
+    margin-left: -15px;
+}
+.badge-style{
+    margin-left: -50px;
+    padding: 8px;
+}
+
+/* banner carousel section  -------------------
+ -------------------------*/
+ .banner-button{
+     text-decoration: none;
+     color: white;
+ }
+.carousel-item{
+    height: 80vh;
+}
+.carousel-item img{
+    height: 100%;
+    object-fit: cover;
+}
+.carousel-title-3, .carousel-title-2{
+    margin-left: 30px;
+    font-weight: bolder;
+        
+}
+.carousel-title-1{
+    font-weight: bolder;
+    
+}
+
+/* clients section  -------------------
+ -------------------------*/
+ .clients{
+    margin-top: 200px;
+}
+
+/* frequently asked question section  -------------------
+ -------------------------*/
+.faq{
+    margin-top:200px; 
+}
+
+/* subscribe section  -------------------
+ -------------------------*/
+.subscribe{
+    margin-top: 170px;
+}
+
+/* booking section  -------------------
+ -------------------------*/
+.booking-convention-center{
+    margin-top:200px; 
+}
+
+/* footer section  -------------------
+ -------------------------*/
+footer{
+    margin-top: 200px;
+}
+
